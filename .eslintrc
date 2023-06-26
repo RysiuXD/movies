@@ -1,0 +1,14 @@
+{
+  "extends": ["react-app", "react-app/jest", "prettier"],
+  "rules": {
+    "semi": "warn",
+    "no-var": "error",
+    "quotes": [
+      "warn",
+      "single",
+      {
+        "allowTemplateLiterals": true
+      }
+    ]
+  }
+}

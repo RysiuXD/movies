@@ -1,0 +1,8 @@
+.actor {
+    flex-grow: 1;
+    flex-basis: 200px;
+}
+
+.actor img {
+    width: 100%;
+}
